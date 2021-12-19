@@ -21,3 +21,4 @@ References:
 - NLTK documents
 - [Word2Vec](https://en.wikipedia.org/wiki/Word2vec)
 - [BERT model](https://en.wikipedia.org/wiki/BERT_(language_model))
+- [LDA - Topic modelling](https://towardsdatascience.com/nlp-extracting-the-main-topics-from-your-dataset-using-lda-in-minutes-21486f5aa925)
